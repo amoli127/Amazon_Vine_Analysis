@@ -3,6 +3,10 @@ This analysis aims to examine whether there is any bias in favor of positive rev
 
 ## Results
 
+| Vine Reviews | Non-Vine Reviews |
+| :---: | :---: |
+| !| ! | 
+
 - **How many Vine reviews and non-Vine reviews were there?**
 
   There was a total of 94 Vine reviews and 40,471 non-Vine reviews.
