@@ -5,7 +5,9 @@ This analysis aims to examine whether there is any bias in favor of positive rev
 
 | Vine Reviews | Non-Vine Reviews |
 | :---: | :---: |
-| !| ! | 
+| ![Vine_reviews](https://user-images.githubusercontent.com/117063056/235288553-4bed2c5f-b810-4678-9ccd-47c3d951d247.png)| ![non-Vine_reviews](https://user-images.githubusercontent.com/117063056/235288558-fd40631b-3e0d-49ed-806d-77ee93099eac.png) | 
+
+
 
 - **How many Vine reviews and non-Vine reviews were there?**
 
